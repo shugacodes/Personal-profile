@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: "Bricolage Grotesque", sans-serif;
 }
 
 body {
@@ -205,39 +207,6 @@ a {
 }
 
 
-/* .personal-and-career-goals{
-    background-color: rgb(134, 21, 21);
-    /* border: 1px solid #b8b5b5; 
-    border-radius: 1rem;
-    width: 40%;
-    height: auto;
-    padding: 2rem;
-    margin: 1rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    box-shadow: 0 0 10px rgba(252, 251, 251, 0.1);
-    /* transition: transform 0.3s; 
-    box-shadow: 0 4px 8px #e2cdf7(0, 0, 0, 0.1);
-    overflow: hidden;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-} */
-
-
-/* .personal-and-career-goals:hover { 
-    transform: translateY(-10px); 
-    background-color: #fff;
-    transform: scale(1.05);
-    box-shadow: 0 8px 16px #e2cdf7;
-}
-
-.personal-and-career-goals img{
-    width: 78%;
-    height: auto;
-    border-radius: 1rem;
-    align-items: center;
-
-/* } */
 
 .span {
     /* background-color: rgb(223, 161, 161); */
